@@ -1,0 +1,101 @@
+body{
+  padding-top: 40px;
+  background-color: #303030;
+}
+.cont1{
+  text-align: center;
+  color: white;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-image: url('../image/background.jpg');
+  background-attachment: fixed;
+}
+.cont3{
+  text-align: center;
+  margin-top: 35px;
+  padding: top 40px;
+  padding-bottom: 40px;
+  background-color: inherit;
+  background-color: #2f99fc;
+  color: white;
+  background-image: url('../image/background.jpg');
+  background-attachment: fixed;
+}
+.remplissage{
+  text-align: center;
+  margin-top: 35px;
+  padding: top 40px;
+  padding-bottom: 40px;
+  background-color: inherit;
+  background-color: #2f99fc;
+  color: white;
+  background-image: url('../image/background.jpg');
+  background-attachment: fixed;
+  height: 470px;
+}
+.liste_tache{
+  margin-top: 35px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: inherit;
+  background-color: white;
+  text-align: center;
+}
+.cont5{
+  margin-top: 35px;
+  padding-top: 140px;
+  padding-bottom: 140px;
+  background-color: inherit;
+  background-color: #2f99fc;
+  color: white;
+  text-align: center;
+}
+.creation{
+  margin-top: 35px;
+  margin-bottom: 35px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: inherit;
+  background-color: white;
+  text-align: center;
+}
+.connection{
+  margin-top: 35px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: inherit;
+  background-color: white;
+  text-align: center;
+}
+.textshadow{
+  color: inherit;
+  color: black;
+  text-shadow: 1px 1px 2px white;
+}
+.titre_tache{
+  text-align: center;
+  padding-bottom: 10px;
+}
+.check{
+  text-align: right;
+}
+.align3{
+  padding-top: 25px;
+  text-align: center;
+}
+.pad_bottom{
+  margin-bottom: 35px;
+}
+
+.navigation{
+  background-color: inherit;
+  background-color: #303030;
+}
+
+.tacheValider{
+  text-decoration: line-through;
+}
+
+.artListe{
+  margin: 10px;
+}
